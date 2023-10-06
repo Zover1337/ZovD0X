@@ -7,4 +7,5 @@ New D0X Test Tool for EveryOne
    - pip install pandas
    - cd ZovD0X
    - python main.py
+
 IF SOME FUNCTION NOT WORK OR PROGRAM NOT START, DO WHAT PYTHON SAID YOU
